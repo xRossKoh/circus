@@ -6,7 +6,7 @@ import java.util.Comparator;
 import java.util.Locale;
 
 public abstract class Animal implements Asset {
-
+q
     public String name;
     public abstract String speak();
 
